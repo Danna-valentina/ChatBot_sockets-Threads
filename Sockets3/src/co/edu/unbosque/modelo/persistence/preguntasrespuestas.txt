@@ -1,0 +1,8 @@
+1. Compra de paquetes;Recargas;Consulta de saldo y consumos
+2. Paquete de Datos;Paquete Todo Incluido;Paquete Relevo comunidad sorda;Paquete de Apps;Paquete de Voz;Atras
+3. $1000 1Dia 200MB Nav+WhatsApp;$2000 1Dia 400MB Nav+WFT;$4000 3Dias 800MB Nav+WFT;$5000 2Horas Nav Ilimitada;$7000 7Dias 2GB Nav+WFT;Atras
+4. Seleccione el metodo de Pago;Atras
+5. Nequi;Daviplata;Descuento de saldo;Atras
+6. $1000;$2000;$3000;$4000;$5000;Mas;Atras
+7. $6000;$7000;$8000;$9000;$10000;Atras
+8. Consulta de saldo y numero;Atras
